@@ -1,0 +1,2 @@
+# arquitectura
+PROYECTO DE ARQUITECTURA SFTW_05_01
