@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|c:\\users\\lenovo\\source\\repos\\solucioncontrolescolar2\\controlescolar2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|solutionrelative:controlescolar2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|c:\\users\\lenovo\\source\\repos\\solucioncontrolescolar2\\controlescolar2\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|solutionrelative:controlescolar2\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\controlescolar2\\maestrohome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|solutionrelative:controlescolar2\\maestrohome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\controlescolar2\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|solutionrelative:controlescolar2\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\controlescolar2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|solutionrelative:controlescolar2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\controlescolar2\\directivohome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|solutionrelative:controlescolar2\\directivohome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\controlescolar2\\alumnohome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|solutionrelative:controlescolar2\\alumnohome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\controlescolar2\\site.master.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|solutionrelative:controlescolar2\\site.master.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\controlescolar2\\alumnohome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|solutionrelative:controlescolar2\\alumnohome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\controlescolar2\\site.master.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9859BDE-D327-42A9-B5B3-05B9E2B12D57}|ControlEscolar2\\ControlEscolar2.csproj|solutionrelative:controlescolar2\\site.master.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\Site.Master",
+              "RelativeDocumentMoniker": "ControlEscolar2\\Site.Master",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\Site.Master",
+              "RelativeToolTip": "ControlEscolar2\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-19T16:05:27.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\Login.aspx",
+              "RelativeDocumentMoniker": "ControlEscolar2\\Login.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\Login.aspx",
+              "RelativeToolTip": "ControlEscolar2\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-19T03:02:27.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlumnoHome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\AlumnoHome.aspx.cs",
+              "RelativeDocumentMoniker": "ControlEscolar2\\AlumnoHome.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\AlumnoHome.aspx.cs",
+              "RelativeToolTip": "ControlEscolar2\\AlumnoHome.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T03:15:34.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlumnoHome.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\AlumnoHome.aspx",
+              "RelativeDocumentMoniker": "ControlEscolar2\\AlumnoHome.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\AlumnoHome.aspx",
+              "RelativeToolTip": "ControlEscolar2\\AlumnoHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-19T03:13:47.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaestroHome.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\MaestroHome.aspx",
+              "RelativeDocumentMoniker": "ControlEscolar2\\MaestroHome.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\MaestroHome.aspx",
+              "RelativeToolTip": "ControlEscolar2\\MaestroHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-19T03:12:35.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DirectivoHome.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\DirectivoHome.aspx",
+              "RelativeDocumentMoniker": "ControlEscolar2\\DirectivoHome.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\DirectivoHome.aspx",
+              "RelativeToolTip": "ControlEscolar2\\DirectivoHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-19T03:08:38.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "ControlEscolar2\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\Login.aspx.designer.cs",
+              "RelativeToolTip": "ControlEscolar2\\Login.aspx.designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T03:06:09.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "ControlEscolar2\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\Login.aspx.cs",
+              "RelativeToolTip": "ControlEscolar2\\Login.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T03:06:06.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Site.master.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\Site.master.aspx.cs",
+              "RelativeDocumentMoniker": "ControlEscolar2\\Site.master.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\Site.master.aspx.cs",
+              "RelativeToolTip": "ControlEscolar2\\Site.master.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T02:51:54.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site.master.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\Site.master.aspx",
+              "RelativeDocumentMoniker": "ControlEscolar2\\Site.master.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\SolucionControlEscolar2\\ControlEscolar2\\Site.master.aspx",
+              "RelativeToolTip": "ControlEscolar2\\Site.master.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-19T02:40:00.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
